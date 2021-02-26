@@ -1,5 +1,21 @@
-h1 {
-    color: black;
-} 
+body {
+    background-color: #222831;
+}
 
-/* add some actual effects later */
+h1 {
+    color: #ffd369;
+    font-family: serif;
+}
+
+p {
+    color: #f9fafd;
+    font-family: sans-serif;
+}
+
+hr {
+    border-style: dotted none none;
+    width: 30%;
+    border-color: cadetblue;
+    border-width: 5px;
+    width: 4%;
+}
